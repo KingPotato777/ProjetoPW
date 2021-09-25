@@ -1,0 +1,55 @@
+/* Estilos Gerais */
+*{ 
+    margin: 0;
+    padding: 0;
+}
+
+body{
+     background-image: url("../imagens/backgroud.png");
+     background-color: black;
+     background-size: 100%;
+     background-repeat: no-repeat;
+}
+
+/*  Aplicando Mobile Firt */
+/* logo */
+
+#img-logo{
+    text-align: center;
+}
+
+#logo{
+    width: 50%;
+    margin-top: 20px;
+}
+
+#menu{
+    margin-top: 130px;
+        
+}
+
+nav a {
+    color: red;
+    display: block;
+    border: 1px solid white;
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+
+/* Media querie Tablet */
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+
+}
+
+/* Media Queria Para Desktop */
+
+@media (min-width: 992px) {
+
+    
+}
+
+
